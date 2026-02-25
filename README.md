@@ -62,7 +62,9 @@ With an estimated profit of 10.60M, improving low-performing cities and categori
 - Business KPI Analysis  
 
 ---
+<img width="1365" height="671" alt="Screenshot 2026-02-23 100817" src="https://github.com/user-attachments/assets/2f47b01c-7a40-4fb6-808a-af5b6db8f129" />
+
 
 This project demonstrates how sales data can be transformed into actionable insights to support better decision-making and business strategy.
 
-Thank you for visiting this project. Your feedback and suggestions are always welcome.
+**Thank you for visiting this project. Your feedback and suggestions are always welcome.**
